@@ -1,0 +1,19 @@
+{
+  "name": "toffi",
+  "version": "1.0.0",
+  "description": "this is a survey poll application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kizzanaome/Toffi.git"
+  },
+  "author": "naome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kizzanaome/Toffi/issues"
+  },
+  "homepage": "https://github.com/kizzanaome/Toffi#readme"
+}
